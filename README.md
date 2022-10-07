@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matarwy&count_private=true)](https://github.com/Matarwy)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matarwy&count_private=true&show_icons=true&theme=radical)](https://github.com/Matarwy)
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
