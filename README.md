@@ -1,8 +1,8 @@
 [![MasterHead](https://github.com/Matarwy/Matarwy/blob/main/header.png)](https://github.com/Matarwy)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matarwy" alt="matarwy" /></a> </p>
 <p>
-  <span align="left"> <img src="https://komarev.com/ghpvc/?username=matarwy&label=Profile%20views&color=0e75b6&style=flat" alt="matarwy" /> </span>
-  <span align="left"> <a href="https://twitter.com/0xmatarawy" target="blank"><img src="https://img.shields.io/twitter/follow/0xmatarawy?logo=twitter&style=for-the-badge" alt="0xmatarawy" /></a> </span>
+  <span align="left"> <img src="https://komarev.com/ghpvc/?username=matarwy&label=Github%20Profile%20views&color=0e75b6&style=flat" alt="matarwy" /> </span>
+  <span align="left"> <a href="https://twitter.com/0xmatarawy" target="blank"><img src="https://img.shields.io/twitter/follow/0xmatarawy?logo=twitter&style=flat" alt="0xmatarawy" /></a> </span>
 </p>
 - 🌱 I’m currently learning **Blockchain Ticknology**
 
